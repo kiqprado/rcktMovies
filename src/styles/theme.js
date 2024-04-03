@@ -1,0 +1,23 @@
+export default {
+  COLORS: {
+    BACKGROUND_600: '#0D0C0F',
+    BACKGROUND_500: '#1C1B1E',
+    BACKGROUND_400: '#262529',
+    BACKGROUND_300: '#272024',
+    BACKGROUND_200: '#282124',
+
+    VIOLET: '#8D4F5C',
+    PINK: '#FF849B',
+    PINK_HOVER: '#F3779C',
+
+    SATIN_WHITE: '#F4EDE8',
+    OFF_WHITE: '#E5E5E5',
+    WHITE: '#FFF',
+
+    GREY_500: '#312E38',
+    GREY_400: '#3E3B47',
+    GRAY_300: '#999591',
+    GREY_200: '#948F99',
+    GREY_100: '#CAC4CF;'
+  }
+}
